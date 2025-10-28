@@ -42,9 +42,9 @@ git clone https://github.com/Sumit-1988-git/Dentist_Appointment_using_N8N_Telegr
 ```
 * Import Workflow to N8N:
 
-Use **Dentist_Appointment_telegram.json** for quick setup.​
+  * Use **Dentist_Appointment_telegram.json** for quick setup.​
 
-* Configure required credentials: Telegram Bot, Google Calendar, Google Sheets, and OpenAI API (optional for AI messaging).
+  * Configure required credentials: Telegram Bot, Google Calendar, Google Sheets, and OpenAI API.
 
 * Update Office Details: Edit prompt messages and office hours as required in the workflow settings.
 
